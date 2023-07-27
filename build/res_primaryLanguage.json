@@ -1,0 +1,163 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Social Media",
+      "startDate": "2023",
+      "description": "App to releated with trips still in development",
+      "images": [
+        "images/portfolio/arrive/1.png",
+        "images/portfolio/arrive/2.png",
+        "images/portfolio/arrive/3.png",
+        "images/portfolio/arrive/4.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "Graphql"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "Mysql"
+        }
+      ]
+    },
+    {
+      "title": "Stockey",
+      "startDate": "2020",
+      "description": "Stock market analysis app, offering dynamic charts, real-time price updates, upcoming event insights, and dividend tracking capabilities.",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "GraphQL"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "Mysql"
+        }
+      ]
+    },
+    {
+      "title": "MQL4 Trading bot",
+      "startDate": "2018",
+      "description": "Trading bot for forex, based on a strategy it will close or open positions on trading market",
+      "images": [
+        "https://www.earnforex.com/mt4-forex-indicators/images/Beginner.png"
+      ],
+      "url": "https://github.com/frankyfdr/Trading-Robot",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Equals Money",
+      "title": "Developer",
+      "years": "12.2022 - present",
+      "mainTech": ["React / Nodejs"],
+      "technologies": [
+        "React",
+        "React Native",
+        "Node.js",
+        "JavaScript",
+        "Docker",
+        "Next.js",
+        "Context API"
+      ],
+      "icon": "fa-react"
+    },
+    {
+      "company": "Dark Trace",
+      "title": "Software Engineer",
+      "years": "06.2012 - 12.2022",
+      "mainTech": ["JavaScript"],
+      "technologies": [
+        "React.js",
+        "Node.js",
+        "Docker ",
+        "jQuery",
+        "HTML5",
+        "CSS 3",
+        "MySQL"
+      ],
+      "icon": "devicon-javascript-plain"
+    },
+    {
+      "company": "Grant Instruments",
+      "title": "Software Engineer",
+      "years": "03.2021 - 06.2022",
+      "mainTech": ["React / React Native"],
+      "technologies": [
+        "React.js ",
+        "React Native ",
+        "Node.js ",
+        "JavaScript ",
+        "Microsoft Azure ",
+        "Redux.js ",
+        "GraphQL ",
+        "SASS ",
+        "MySQL"
+      ],
+      "icon": "fa-react"
+    },
+    {
+      "company": "NOS",
+      "title": "Technical Support",
+      "years": "12.2014 - 06.2017",
+      "mainTech": ["React / React Native"],
+      "technologies": ["Problem Solving", "Customer Support"],
+      "icon": "fa-react"
+    }
+  ]
+}
