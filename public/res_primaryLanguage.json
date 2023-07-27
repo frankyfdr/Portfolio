@@ -1,118 +1,163 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Social Media",
+      "startDate": "2023",
+      "description": "App to releated with trips still in development",
+      "images": [
+        "images/portfolio/arrive/1.png",
+        "images/portfolio/arrive/2.png",
+        "images/portfolio/arrive/3.png",
+        "images/portfolio/arrive/4.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "Graphql"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "Mysql"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Stockey",
+      "startDate": "2020",
+      "description": "Stock market analysis app, offering dynamic charts, real-time price updates, upcoming event insights, and dividend tracking capabilities.",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "GraphQL"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "Mysql"
+        }
+      ]
+    },
+    {
+      "title": "MQL4 Trading bot",
+      "startDate": "2018",
+      "description": "Trading bot for forex, based on a strategy it will close or open positions on trading market",
+      "images": [
+        "https://www.earnforex.com/mt4-forex-indicators/images/Beginner.png"
+      ],
+      "url": "https://github.com/frankyfdr/Trading-Robot",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Equals Money",
+      "title": "Developer",
+      "years": "12.2022 - present",
+      "mainTech": ["React / Nodejs"],
+      "technologies": [
+        "React",
+        "React Native",
+        "Node.js",
+        "JavaScript",
+        "Docker",
+        "Next.js",
+        "Context API"
+      ],
+      "icon": "fa-react"
+    },
+    {
+      "company": "Dark Trace",
+      "title": "Software Engineer",
+      "years": "06.2012 - 12.2022",
+      "mainTech": ["JavaScript"],
+      "technologies": [
+        "React.js",
+        "Node.js",
+        "Docker ",
+        "jQuery",
+        "HTML5",
+        "CSS 3",
+        "MySQL"
+      ],
+      "icon": "devicon-javascript-plain"
+    },
+    {
+      "company": "Grant Instruments",
+      "title": "Software Engineer",
+      "years": "03.2021 - 06.2022",
+      "mainTech": ["React / React Native"],
+      "technologies": [
+        "React.js ",
+        "React Native ",
+        "Node.js ",
+        "JavaScript ",
+        "Microsoft Azure ",
+        "Redux.js ",
+        "GraphQL ",
+        "SASS ",
+        "MySQL"
+      ],
+      "icon": "fa-react"
+    },
+    {
+      "company": "NOS",
+      "title": "Technical Support",
+      "years": "12.2014 - 06.2017",
+      "mainTech": ["React / React Native"],
+      "technologies": ["Problem Solving", "Customer Support"],
+      "icon": "fa-react"
+    }
+  ]
+}
