@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "description": "👋 Highly motivated and skilled Full Stack Developer with a deep passion for crafting cutting-edge web and mobile applications. Proficient in leveraging the power of React and React Native to develop intuitive and feature-rich solutions. A strong problem solver who thrives in challenging environments and enjoys finding innovative solutions to complex technical issues. Committed to excellence, I have independently initiated and deployed my own mobile app projects on both iOS and Google Play Store. Eager to pursue my entrepreneurial ambitions, my long-term vision is to build a prominent tech company that shapes the future of technology. With a dedication to continuous learning and an unwavering drive to make a positive impact, I am poised to contribute my expertise and enthusiasm to any dynamic team.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -15,10 +15,8 @@
       "startDate": "2023",
       "description": "App to releated with trips still in development",
       "images": [
-        "images/portfolio/arrive/1.png",
-        "images/portfolio/arrive/2.png",
-        "images/portfolio/arrive/3.png",
-        "images/portfolio/arrive/4.png"
+        "https://frankyfdr.github.io/portfolio/images/portfolio/arrive/1.png"
+   
       ],
       "url": "",
       "technologies": [

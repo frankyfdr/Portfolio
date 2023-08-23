@@ -1,86 +1,89 @@
 {
-    "basic_info": {
-      "name": "Frank R.",
-      "titles": [ "Full stack Developer", "Mobile App Developer" ],
-      "social": [
-        {
-          "name": "github",
-          "url": "https://github.com/frankyfdr",
-          "class": "fab fa-github"
-        }
-    
-      ],
-      "image": "myProfile.jpg"
-    },
-    "skills": {
-      "icons": [
-        {
-          "name": "React Native",
-          "class": "devicon-react-original",
-          "level": "95"
-        },
-        {
-          "name": "Nodejs",
-          "class": "devicon-nodejs-plain",
-          "level": "95"
-        },
-        {
-          "name": "React",
-          "class": "devicon-react-original",
-          "level": "95"
-        },
-        {
-          "name": "Redux",
-          "class": "devicon-redux-original",
-          "level": "95"
-        },
-        {
-          "name": "GraphQL",
-          "class": "devicon-graphql-plain",
-          "level": "95"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "Docker",
-          "class": "devicon-docker-plain",
-          "level": "70"
-        },
-        {
-          "name": "NextJS",
-          "class": "devicon-nextjs-original",
-          "level": "70"
-        },
-        {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-       
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
-        }
-      ]
-    }
+  "basic_info": {
+    "name": "Frank R.",
+    "titles": [
+      "Full stack Developer",
+      "React Developer",
+      "React Native Developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/frankyfdr",
+        "class": "fab fa-github"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "React Native",
+        "class": "devicon-react-original",
+        "level": "95"
+      },
+      {
+        "name": "Nodejs",
+        "class": "devicon-nodejs-plain",
+        "level": "95"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "95"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-original",
+        "level": "95"
+      },
+      {
+        "name": "GraphQL",
+        "class": "devicon-graphql-plain",
+        "level": "95"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "70"
+      },
+      {
+        "name": "NextJS",
+        "class": "devicon-nextjs-original",
+        "level": "70"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      }
+    ]
   }
+}
