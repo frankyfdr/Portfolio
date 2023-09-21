@@ -15,7 +15,10 @@
       "startDate": "2023",
       "description": "App to releated with trips still in development",
       "images": [
-        "https://frankyfdr.github.io/portfolio/images/portfolio/arrive/1.png"
+        "https://frankyfdr.github.io/portfolio/images/portfolio/arrive/1.png",
+        "https://frankyfdr.github.io/portfolio/images/portfolio/arrive/2.png",
+        "https://frankyfdr.github.io/portfolio/images/portfolio/arrive/3.png",
+        "https://frankyfdr.github.io/portfolio/images/portfolio/arrive/4.png"
    
       ],
       "url": "",
@@ -51,8 +54,11 @@
       "startDate": "2020",
       "description": "Stock market analysis app, offering dynamic charts, real-time price updates, upcoming event insights, and dividend tracking capabilities.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "https://frankyfdr.github.io/portfolio/images/portfolio/stockey/1.png",
+        "https://frankyfdr.github.io/portfolio/images/portfolio/stockey/2.png",
+        "https://frankyfdr.github.io/portfolio/images/portfolio/stockey/3.png",
+        "https://frankyfdr.github.io/portfolio/images/portfolio/stockey/4.png",
+        "https://frankyfdr.github.io/portfolio/images/portfolio/stockey/5.png"
       ],
       "url": "",
       "technologies": [
